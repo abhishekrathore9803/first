@@ -1,0 +1,60 @@
+body{
+	font-family: sans-serif;
+	background-image: linear-gradient(to right, purple , aqua);
+
+}
+.abhimain{
+	margin: 70px 80px;
+    padding: 50px 40px;
+    background-color: white;
+}
+
+
+.abhi1 {
+    margin: 60px 60px;
+    padding: 30px 30px;
+
+    color: white;
+}
+.right {
+    font-weight: bolder;
+}
+.topnav{
+	
+	display: flex;
+    justify-content: flex-end;
+	justify-content: space-between;
+}
+
+.a1 {
+	margin-right: 10px;
+}
+
+.elements {
+	display: flex;
+    /*justify-content: flex-end;*/
+	justify-content: space-around;
+	/*align-items: baseline*/;
+}
+
+.abhi2 {
+    margin-top: 100px;
+}
+.a3{
+	 width: 300px;
+}
+.abhi3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+}
+.a2 {
+    color: pink;
+}
+.abhi4{
+    display: flex;
+    justify-content: space-between;
+
+} 
+
